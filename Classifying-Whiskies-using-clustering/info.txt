@@ -1,0 +1,2 @@
+.ix has been deprecated in the latest Pandas version.
+You might want to use .iloc instead. 
